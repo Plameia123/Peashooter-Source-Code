@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SnowPea_ChillingWithTheCorn.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cool0000" x="0" y="0" width="419" height="472" frameX="-11" frameY="0" frameWidth="430" frameHeight="472"/>
+	<SubTexture name="cool0001" x="419" y="0" width="420" height="470" frameX="-9" frameY="-2" frameWidth="430" frameHeight="472"/>
+	<SubTexture name="cool0002" x="839" y="0" width="421" height="469" frameX="-6" frameY="-3" frameWidth="430" frameHeight="472"/>
+	<SubTexture name="cool0003" x="1260" y="0" width="423" height="468" frameX="-3" frameY="-4" frameWidth="430" frameHeight="472"/>
+	<SubTexture name="cool0004" x="0" y="472" width="424" height="467" frameX="0" frameY="-5" frameWidth="430" frameHeight="472"/>
+	<SubTexture name="cool0005" x="0" y="472" width="424" height="467" frameX="0" frameY="-5" frameWidth="430" frameHeight="472"/>
+	<SubTexture name="cool0006" x="0" y="472" width="424" height="467" frameX="0" frameY="-5" frameWidth="430" frameHeight="472"/>
+	<SubTexture name="cool0007" x="0" y="472" width="424" height="467" frameX="0" frameY="-5" frameWidth="430" frameHeight="472"/>
+	<SubTexture name="cool0008" x="0" y="472" width="424" height="467" frameX="0" frameY="-5" frameWidth="430" frameHeight="472"/>
+	<SubTexture name="cool0009" x="0" y="472" width="424" height="467" frameX="0" frameY="-5" frameWidth="430" frameHeight="472"/>
+	<SubTexture name="cool0010" x="0" y="472" width="424" height="467" frameX="0" frameY="-5" frameWidth="430" frameHeight="472"/>
+	<SubTexture name="cool0011" x="0" y="472" width="424" height="467" frameX="0" frameY="-5" frameWidth="430" frameHeight="472"/>
+</TextureAtlas>

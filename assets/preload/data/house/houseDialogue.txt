@@ -1,0 +1,6 @@
+setfont_normal:generic:Here we have Peashooter, minding his own business...
+:bf: beb 
+:peashooter: Wait, who are you two?
+:peashooter: Oh wait! I saw you guys a couple days ago!
+:bf: beep bop
+:peashooter: Oh, you want to sing? Well let's go then!

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="snow_pea_blocked.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="snow pea blocked portrait0000" x="0" y="0" width="284" height="318" frameX="0" frameY="0" frameWidth="337" frameHeight="318"/>
+	<SubTexture name="snow pea blocked portrait0001" x="284" y="0" width="284" height="318" frameX="-18" frameY="0" frameWidth="337" frameHeight="318"/>
+	<SubTexture name="snow pea blocked portrait0002" x="284" y="0" width="284" height="318" frameX="-38" frameY="0" frameWidth="337" frameHeight="318"/>
+	<SubTexture name="snow pea blocked portrait0003" x="284" y="0" width="284" height="318" frameX="-53" frameY="0" frameWidth="337" frameHeight="318"/>
+</TextureAtlas>

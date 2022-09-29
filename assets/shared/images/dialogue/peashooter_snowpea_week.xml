@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="peashooter_snowpea_week.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="peashooter snow pea week portrait0000" x="0" y="0" width="292" height="278" frameX="0" frameY="0" frameWidth="345" frameHeight="278"/>
+	<SubTexture name="peashooter snow pea week portrait0001" x="292" y="0" width="292" height="278" frameX="-19" frameY="0" frameWidth="345" frameHeight="278"/>
+	<SubTexture name="peashooter snow pea week portrait0002" x="292" y="0" width="292" height="278" frameX="-38" frameY="0" frameWidth="345" frameHeight="278"/>
+	<SubTexture name="peashooter snow pea week portrait0003" x="292" y="0" width="292" height="278" frameX="-53" frameY="0" frameWidth="345" frameHeight="278"/>
+</TextureAtlas>

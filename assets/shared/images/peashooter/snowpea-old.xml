@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="snowpea-old.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MARCELLO NOTE DOWN0000" x="0" y="0" width="418" height="477" frameX="0" frameY="-2" frameWidth="420" frameHeight="479"/>
+	<SubTexture name="MARCELLO NOTE DOWN0001" x="418" y="0" width="418" height="477" frameX="-1" frameY="-1" frameWidth="420" frameHeight="479"/>
+	<SubTexture name="MARCELLO NOTE DOWN0002" x="836" y="0" width="416" height="477" frameX="-3" frameY="0" frameWidth="420" frameHeight="479"/>
+	<SubTexture name="MARCELLO NOTE DOWN0003" x="1252" y="0" width="416" height="476" frameX="-4" frameY="0" frameWidth="420" frameHeight="479"/>
+	<SubTexture name="MARCELLO NOTE LEFT0000" x="1668" y="0" width="424" height="472" frameX="-6" frameY="0" frameWidth="430" frameHeight="472"/>
+	<SubTexture name="MARCELLO NOTE LEFT0001" x="2092" y="0" width="424" height="471" frameX="-4" frameY="0" frameWidth="430" frameHeight="472"/>
+	<SubTexture name="MARCELLO NOTE LEFT0002" x="2516" y="0" width="424" height="470" frameX="-2" frameY="-1" frameWidth="430" frameHeight="472"/>
+	<SubTexture name="MARCELLO NOTE LEFT0003" x="2940" y="0" width="424" height="469" frameX="0" frameY="-1" frameWidth="430" frameHeight="472"/>
+	<SubTexture name="MARCELLO NOTE RIGHT0000" x="3364" y="0" width="424" height="470" frameX="0" frameY="0" frameWidth="428" frameHeight="476"/>
+	<SubTexture name="MARCELLO NOTE RIGHT0001" x="0" y="477" width="424" height="472" frameX="-1" frameY="0" frameWidth="428" frameHeight="476"/>
+	<SubTexture name="MARCELLO NOTE RIGHT0002" x="424" y="477" width="424" height="474" frameX="-2" frameY="0" frameWidth="428" frameHeight="476"/>
+	<SubTexture name="MARCELLO NOTE RIGHT0003" x="848" y="477" width="424" height="476" frameX="-4" frameY="0" frameWidth="428" frameHeight="476"/>
+	<SubTexture name="MARCELLO NOTE UP0000" x="1272" y="477" width="424" height="469"/>
+	<SubTexture name="MARCELLO NOTE UP0001" x="1696" y="477" width="424" height="468" frameX="0" frameY="0" frameWidth="424" frameHeight="469"/>
+	<SubTexture name="MARCELLO NOTE UP0002" x="2120" y="477" width="423" height="468" frameX="0" frameY="0" frameWidth="424" frameHeight="469"/>
+	<SubTexture name="MARCELLO NOTE UP0003" x="2543" y="477" width="422" height="468" frameX="0" frameY="0" frameWidth="424" frameHeight="469"/>
+	<SubTexture name="MARCELLO idle dance0000" x="2965" y="477" width="420" height="468" frameX="-6" frameY="0" frameWidth="426" frameHeight="468"/>
+	<SubTexture name="MARCELLO idle dance0001" x="3385" y="477" width="422" height="466" frameX="-4" frameY="-2" frameWidth="426" frameHeight="468"/>
+	<SubTexture name="MARCELLO idle dance0002" x="0" y="953" width="423" height="466" frameX="-2" frameY="-2" frameWidth="426" frameHeight="468"/>
+	<SubTexture name="MARCELLO idle dance0003" x="423" y="953" width="424" height="466" frameX="-1" frameY="-2" frameWidth="426" frameHeight="468"/>
+	<SubTexture name="MARCELLO idle dance0004" x="847" y="953" width="424" height="466" frameX="0" frameY="-2" frameWidth="426" frameHeight="468"/>
+	<SubTexture name="MARCELLO idle dance0005" x="847" y="953" width="424" height="466" frameX="0" frameY="-2" frameWidth="426" frameHeight="468"/>
+	<SubTexture name="MARCELLO idle dance0006" x="847" y="953" width="424" height="466" frameX="0" frameY="-2" frameWidth="426" frameHeight="468"/>
+	<SubTexture name="MARCELLO idle dance0007" x="847" y="953" width="424" height="466" frameX="0" frameY="-2" frameWidth="426" frameHeight="468"/>
+	<SubTexture name="MARCELLO idle dance0008" x="847" y="953" width="424" height="466" frameX="0" frameY="-2" frameWidth="426" frameHeight="468"/>
+	<SubTexture name="MARCELLO idle dance0009" x="847" y="953" width="424" height="466" frameX="0" frameY="-2" frameWidth="426" frameHeight="468"/>
+	<SubTexture name="MARCELLO idle dance0010" x="847" y="953" width="424" height="466" frameX="0" frameY="-2" frameWidth="426" frameHeight="468"/>
+	<SubTexture name="MARCELLO idle dance0011" x="847" y="953" width="424" height="466" frameX="0" frameY="-2" frameWidth="426" frameHeight="468"/>
+	<SubTexture name="MARCELLO idle dance0012" x="847" y="953" width="424" height="466" frameX="0" frameY="-2" frameWidth="426" frameHeight="468"/>
+	<SubTexture name="MARCELLO idle dance0013" x="847" y="953" width="424" height="466" frameX="0" frameY="-2" frameWidth="426" frameHeight="468"/>
+	<SubTexture name="MARCELLO idle dance0014" x="847" y="953" width="424" height="466" frameX="0" frameY="-2" frameWidth="426" frameHeight="468"/>
+</TextureAtlas>

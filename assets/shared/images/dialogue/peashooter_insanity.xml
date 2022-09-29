@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="peashooter_insanity.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="peashooter insanity portrait0000" x="0" y="0" width="290" height="280" frameX="0" frameY="0" frameWidth="350" frameHeight="280"/>
+	<SubTexture name="peashooter insanity portrait0001" x="290" y="0" width="290" height="280" frameX="-15" frameY="0" frameWidth="350" frameHeight="280"/>
+	<SubTexture name="peashooter insanity portrait0002" x="290" y="0" width="290" height="280" frameX="-30" frameY="0" frameWidth="350" frameHeight="280"/>
+	<SubTexture name="peashooter insanity portrait0003" x="290" y="0" width="290" height="280" frameX="-45" frameY="0" frameWidth="350" frameHeight="280"/>
+	<SubTexture name="peashooter insanity portrait0004" x="290" y="0" width="290" height="280" frameX="-60" frameY="0" frameWidth="350" frameHeight="280"/>
+</TextureAtlas>

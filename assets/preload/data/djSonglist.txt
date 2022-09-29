@@ -1,0 +1,13 @@
+internal,house,peashooter,good
+internal,insanity,peashooter,bad
+external,im-angey,peashooter-angey,bad
+internal,furiosity,peashooter-angey,good
+internal,bonus-song,peashooter,good
+internal,blocked,snow-pea,bad
+internal,corn-theft,snow-pea,bad
+internal,maze,snow-pea,good
+internal,splitathon,the-duo,good
+external,a-new-day,peashooter,good
+external,snow-pea-speak,snow-pea,bad
+external,good-ending,bf-old,good
+external,bad-ending,bf-old,bad

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="peashooter_house.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="peashooter house portrait0000" x="0" y="0" width="292" height="280" frameX="0" frameY="0" frameWidth="352" frameHeight="280"/>
+	<SubTexture name="peashooter house portrait0001" x="292" y="0" width="292" height="280" frameX="-15" frameY="0" frameWidth="352" frameHeight="280"/>
+	<SubTexture name="peashooter house portrait0002" x="292" y="0" width="292" height="280" frameX="-30" frameY="0" frameWidth="352" frameHeight="280"/>
+	<SubTexture name="peashooter house portrait0003" x="292" y="0" width="292" height="280" frameX="-45" frameY="0" frameWidth="352" frameHeight="280"/>
+	<SubTexture name="peashooter house portrait0004" x="292" y="0" width="292" height="280" frameX="-60" frameY="0" frameWidth="352" frameHeight="280"/>
+</TextureAtlas>

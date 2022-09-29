@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="snowpea_angryboy.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DaveAngry Sing Note DOWN0000" x="0" y="0" width="724" height="746"/>
+	<SubTexture name="DaveAngry Sing Note DOWN0001" x="724" y="0" width="724" height="746"/>
+	<SubTexture name="DaveAngry Sing Note LEFT0000" x="1448" y="0" width="724" height="746" frameX="-4" frameY="0" frameWidth="728" frameHeight="746"/>
+	<SubTexture name="DaveAngry Sing Note LEFT0001" x="2172" y="0" width="724" height="746" frameX="0" frameY="0" frameWidth="728" frameHeight="746"/>
+	<SubTexture name="DaveAngry Sing Note RIGHT0000" x="2896" y="0" width="724" height="746" frameX="-2" frameY="0" frameWidth="726" frameHeight="746"/>
+	<SubTexture name="DaveAngry Sing Note RIGHT0001" x="0" y="746" width="724" height="746" frameX="0" frameY="0" frameWidth="726" frameHeight="746"/>
+	<SubTexture name="DaveAngry Sing Note UP0000" x="724" y="746" width="724" height="746" frameX="0" frameY="-20" frameWidth="724" frameHeight="766"/>
+	<SubTexture name="DaveAngry Sing Note UP0001" x="1448" y="746" width="724" height="746" frameX="0" frameY="0" frameWidth="724" frameHeight="766"/>
+	<SubTexture name="DaveAngry idle dance0000" x="2172" y="746" width="724" height="746" frameX="-13" frameY="0" frameWidth="737" frameHeight="765"/>
+	<SubTexture name="DaveAngry idle dance0001" x="2896" y="746" width="724" height="746" frameX="-13" frameY="-19" frameWidth="737" frameHeight="765"/>
+	<SubTexture name="DaveAngry idle dance0002" x="0" y="1492" width="724" height="746" frameX="0" frameY="-16" frameWidth="737" frameHeight="765"/>
+</TextureAtlas>
